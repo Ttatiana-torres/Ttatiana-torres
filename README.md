@@ -1,16 +1,23 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Tatiana Torres
 
-<!--
-**Ttatiana-torres/Ttatiana-torres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Tecnología en Análisis y Desarrollo de Software  
+💻 En proceso de aprendizaje de los fundamentos del desarrollo web y la programación  
+🌱 Actualmente aprendiendo:
+- Java
+- JavaScript
+- HTML & CSS
+- Git & GitHub
 
-Here are some ideas to get you started:
+🛠️ Me interesa desarrollar:
+- Aplicaciones web
+- Proyectos prácticos que me ayuden a mejorar mis habilidades
+- Herramientas que resuelvan problemas reales
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Mi objetivo es seguir creciendo como desarrolladora y aportar con soluciones útiles y bien estructuradas.
+
+🔗 _¡Próximamente compartiré mis redes profesionales y proyectos destacados!_
+
+---
+
+> 💡 Siempre en modo aprendiz, lista para nuevos retos y experiencias. 🚀
+
