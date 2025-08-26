@@ -3,7 +3,6 @@
 🎓 Estudiante de Tecnología en Análisis y Desarrollo de Software  
 💻 En proceso de aprendizaje de los fundamentos del desarrollo web y la programación  
 🌱 Actualmente aprendiendo:
-- Java
 - JavaScript
 - HTML & CSS
 - Git & GitHub
